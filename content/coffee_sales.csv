@@ -1,0 +1,61 @@
+location,month,transactions,avg_ticket_usd,customer_rating
+Capitol Hill,Jan,10948,7.31,5
+Capitol Hill,Feb,11127,8.78,2
+Capitol Hill,Mar,11999,6.8,4
+Capitol Hill,Apr,12756,7.99,2
+Capitol Hill,May,13710,7.4,3
+Capitol Hill,Jun,14024,7.47,1
+Capitol Hill,Jul,13725,7.55,3
+Capitol Hill,Aug,13162,7.54,2
+Capitol Hill,Sep,12495,7.56,4
+Capitol Hill,Oct,10669,7.44,4
+Capitol Hill,Nov,10319,6.58,4
+Capitol Hill,Dec,10343,7.74,3
+Ballard,Jan,7770,7.71,4
+Ballard,Feb,9189,7.0,4
+Ballard,Mar,10029,7.37,4
+Ballard,Apr,10060,8.13,4
+Ballard,May,10849,8.4,4
+Ballard,Jun,10989,8.24,5
+Ballard,Jul,10764,7.6,2
+Ballard,Aug,10454,6.83,4
+Ballard,Sep,9471,7.98,5
+Ballard,Oct,8668,7.19,4
+Ballard,Nov,8236,8.18,3
+Ballard,Dec,7685,7.04,4
+Fremont,Jan,7044,7.03,4
+Fremont,Feb,7787,7.75,4
+Fremont,Mar,8650,7.41,5
+Fremont,Apr,9127,7.74,5
+Fremont,May,9207,6.79,5
+Fremont,Jun,9208,7.68,4
+Fremont,Jul,9206,7.26,5
+Fremont,Aug,9390,6.94,5
+Fremont,Sep,8364,7.77,1
+Fremont,Oct,7252,6.54,2
+Fremont,Nov,7812,7.85,5
+Fremont,Dec,7178,7.03,3
+University District,Jan,12298,6.92,2
+University District,Feb,13094,7.65,1
+University District,Mar,14428,7.56,5
+University District,Apr,14816,7.29,5
+University District,May,16333,7.32,4
+University District,Jun,16246,7.11,4
+University District,Jul,15448,7.57,1
+University District,Aug,15309,7.25,1
+University District,Sep,14006,7.33,4
+University District,Oct,12630,7.42,3
+University District,Nov,12372,7.55,5
+University District,Dec,12359,7.41,5
+Queen Anne,Jan,9425,7.61,1
+Queen Anne,Feb,9431,7.12,2
+Queen Anne,Mar,10343,7.58,4
+Queen Anne,Apr,10911,7.37,4
+Queen Anne,May,11278,7.65,4
+Queen Anne,Jun,11956,7.32,4
+Queen Anne,Jul,11490,7.29,5
+Queen Anne,Aug,10898,7.25,4
+Queen Anne,Sep,10504,6.78,5
+Queen Anne,Oct,10176,7.02,4
+Queen Anne,Nov,8669,7.8,4
+Queen Anne,Dec,9210,8.02,3

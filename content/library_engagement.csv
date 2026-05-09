@@ -1,0 +1,241 @@
+patron_id,home_branch,childrens_programming,neighborhood_median_income,age_group,membership_years,physical_books_per_month,digital_resources_per_month
+P0001,Riverside,True,55300,18-34,10.7,7.5,10.3
+P0002,Southside,False,38100,35-54,0.5,13.8,3.7
+P0003,Maplewood,True,77800,35-54,6.8,8.4,8.3
+P0004,Hillcrest,True,48200,Under 18,2.6,11.5,1.4
+P0005,Riverside,True,60800,18-34,3.4,3.9,11.1
+P0006,Southside,False,37900,18-34,3.9,8.8,6.7
+P0007,Northpark,False,95700,35-54,4.6,7.2,12.2
+P0008,Downtown,False,60000,55+,2.6,12.3,0.9
+P0009,Riverside,True,43800,35-54,3.1,8.3,2.4
+P0010,Southside,False,41500,55+,10.5,13.4,3.1
+P0011,Eastgate,True,94000,18-34,14.2,3.3,14.7
+P0012,Maplewood,True,80300,18-34,4.9,3.8,12.8
+P0013,Northpark,False,90100,18-34,12.4,1.1,12.9
+P0014,Downtown,False,67600,Under 18,4.1,7.7,10.5
+P0015,Maplewood,True,80700,18-34,13.9,4.9,9.6
+P0016,Northpark,False,88600,35-54,2.6,5.8,9.1
+P0017,Maplewood,True,71900,55+,2.0,9.3,5.5
+P0018,Northpark,False,88900,18-34,6.0,3.0,14.1
+P0019,Downtown,False,68700,35-54,10.0,12.6,8.9
+P0020,Northpark,False,95300,35-54,1.5,2.8,12.0
+P0021,Downtown,False,63500,35-54,2.4,7.0,9.3
+P0022,Eastgate,True,95100,55+,4.5,6.1,7.7
+P0023,Downtown,False,66300,35-54,2.9,6.7,6.5
+P0024,Riverside,True,51500,18-34,6.0,9.9,9.2
+P0025,Eastgate,True,101600,35-54,3.4,3.1,8.5
+P0026,Northpark,False,89500,Under 18,4.5,0.8,14.2
+P0027,Northpark,False,86100,Under 18,7.4,0.0,9.0
+P0028,Southside,False,38600,35-54,16.4,11.9,5.0
+P0029,Downtown,False,71100,18-34,4.9,5.1,14.5
+P0030,Riverside,True,48000,Under 18,6.4,10.2,9.2
+P0031,Hillcrest,True,39900,18-34,8.5,7.5,7.3
+P0032,Maplewood,True,84200,35-54,2.9,7.7,8.3
+P0033,Maplewood,True,81400,35-54,7.0,8.0,4.8
+P0034,Riverside,True,51800,18-34,6.1,6.6,9.8
+P0035,Hillcrest,True,39100,35-54,2.8,9.0,2.3
+P0036,Westend,False,46400,Under 18,4.9,3.1,8.4
+P0037,Hillcrest,True,34800,55+,3.3,17.4,0.0
+P0038,Eastgate,True,98800,35-54,2.4,1.4,13.0
+P0039,Eastgate,True,96400,18-34,6.3,3.6,14.6
+P0040,Maplewood,True,78600,35-54,14.4,7.9,9.6
+P0041,Northpark,False,82800,55+,3.6,7.8,5.6
+P0042,Southside,False,35100,35-54,5.5,13.1,1.9
+P0043,Maplewood,True,80100,35-54,2.2,4.9,5.1
+P0044,Southside,False,39000,35-54,5.1,13.4,1.3
+P0045,Hillcrest,True,39000,55+,3.8,11.6,0.0
+P0046,Westend,False,49000,55+,6.7,14.1,3.9
+P0047,Riverside,True,55800,18-34,6.7,9.0,9.9
+P0048,Hillcrest,True,38300,Under 18,4.2,9.9,3.2
+P0049,Eastgate,True,92900,18-34,6.7,7.0,18.1
+P0050,Riverside,True,48500,18-34,4.1,8.5,8.9
+P0051,Hillcrest,True,36400,18-34,6.9,4.0,8.7
+P0052,Downtown,False,71200,18-34,5.5,7.5,9.8
+P0053,Northpark,False,90000,55+,6.8,12.9,0.8
+P0054,Westend,False,48400,18-34,6.8,6.7,6.6
+P0055,Southside,False,33300,18-34,6.8,8.3,3.9
+P0056,Southside,False,33800,55+,3.6,15.0,0.0
+P0057,Southside,False,37700,Under 18,6.2,3.4,0.5
+P0058,Maplewood,True,76300,18-34,7.4,4.8,10.6
+P0059,Maplewood,True,78500,35-54,2.2,8.4,5.9
+P0060,Maplewood,True,75200,35-54,6.8,6.4,8.5
+P0061,Hillcrest,True,43600,55+,9.4,16.3,0.0
+P0062,Maplewood,True,85200,18-34,1.0,7.1,16.5
+P0063,Southside,False,44200,55+,0.2,8.7,2.2
+P0064,Northpark,False,94400,18-34,10.2,0.0,16.8
+P0065,Northpark,False,88300,Under 18,2.1,0.1,10.8
+P0066,Southside,False,41700,Under 18,6.3,8.1,4.7
+P0067,Eastgate,True,93500,18-34,2.5,2.8,16.7
+P0068,Hillcrest,True,44700,55+,6.5,11.7,0.0
+P0069,Hillcrest,True,39500,Under 18,2.2,9.1,8.4
+P0070,Riverside,True,50000,18-34,9.9,6.1,8.3
+P0071,Maplewood,True,75400,55+,0.9,13.1,7.9
+P0072,Hillcrest,True,43800,55+,0.7,10.8,5.1
+P0073,Maplewood,True,79100,18-34,3.2,2.4,16.0
+P0074,Southside,False,38700,Under 18,3.3,8.6,1.6
+P0075,Riverside,True,47400,35-54,1.9,9.0,6.6
+P0076,Downtown,False,68600,55+,4.9,8.9,3.6
+P0077,Maplewood,True,72200,Under 18,8.0,11.9,10.0
+P0078,Eastgate,True,100900,35-54,2.1,4.9,11.6
+P0079,Maplewood,True,77500,Under 18,11.3,7.6,9.2
+P0080,Westend,False,47800,35-54,5.8,9.4,4.6
+P0081,Hillcrest,True,40600,Under 18,3.0,13.3,4.6
+P0082,Riverside,True,45700,Under 18,9.5,11.2,9.1
+P0083,Northpark,False,82500,35-54,5.4,7.1,10.0
+P0084,Eastgate,True,94900,55+,2.8,9.8,3.0
+P0085,Westend,False,53000,Under 18,6.2,7.7,4.0
+P0086,Hillcrest,True,36500,Under 18,4.7,8.4,3.4
+P0087,Riverside,True,49200,18-34,8.3,6.4,7.0
+P0088,Hillcrest,True,40800,55+,4.1,12.9,0.0
+P0089,Eastgate,True,88300,18-34,6.6,3.4,14.6
+P0090,Northpark,False,81200,18-34,4.9,5.2,12.8
+P0091,Maplewood,True,76400,18-34,3.3,6.3,10.2
+P0092,Eastgate,True,94800,55+,5.9,7.6,9.1
+P0093,Southside,False,36400,18-34,3.6,5.8,8.3
+P0094,Westend,False,53100,35-54,5.0,9.9,5.0
+P0095,Maplewood,True,77300,35-54,4.0,5.8,11.0
+P0096,Downtown,False,69400,35-54,17.2,13.2,8.3
+P0097,Maplewood,True,84400,18-34,5.5,4.2,12.5
+P0098,Maplewood,True,84800,55+,0.4,8.8,5.9
+P0099,Downtown,False,61600,18-34,3.0,7.4,10.2
+P0100,Riverside,True,50500,35-54,2.2,8.1,5.6
+P0101,Riverside,True,56700,Under 18,3.1,9.2,8.8
+P0102,Southside,False,32500,55+,1.2,13.7,0.8
+P0103,Riverside,True,48300,18-34,8.0,8.8,10.6
+P0104,Downtown,False,62800,55+,10.1,15.0,1.4
+P0105,Hillcrest,True,35600,35-54,1.2,12.3,0.0
+P0106,Eastgate,True,90500,18-34,3.4,4.1,14.3
+P0107,Maplewood,True,78700,55+,1.6,9.0,6.7
+P0108,Hillcrest,True,46100,18-34,0.9,7.4,9.7
+P0109,Maplewood,True,84100,35-54,2.4,5.6,10.9
+P0110,Downtown,False,68000,35-54,9.9,11.1,8.4
+P0111,Eastgate,True,87100,Under 18,3.9,5.7,11.2
+P0112,Eastgate,True,94800,18-34,2.3,1.8,16.0
+P0113,Hillcrest,True,39600,18-34,1.4,7.8,5.6
+P0114,Northpark,False,89400,18-34,2.0,4.1,15.2
+P0115,Maplewood,True,77500,18-34,6.9,2.9,14.4
+P0116,Westend,False,39800,18-34,10.9,8.3,5.6
+P0117,Southside,False,39700,18-34,6.0,6.4,6.4
+P0118,Eastgate,True,86700,55+,3.7,6.3,11.9
+P0119,Southside,False,35200,18-34,0.6,9.9,4.7
+P0120,Westend,False,48200,18-34,10.1,8.7,7.2
+P0121,Southside,False,39400,18-34,2.1,4.5,4.7
+P0122,Downtown,False,74300,18-34,3.0,2.2,9.2
+P0123,Westend,False,37600,18-34,6.2,9.4,8.6
+P0124,Downtown,False,69400,55+,0.8,9.1,3.0
+P0125,Downtown,False,70800,55+,10.1,9.4,3.3
+P0126,Downtown,False,66700,Under 18,6.7,6.9,6.4
+P0127,Northpark,False,90600,18-34,9.1,2.4,8.9
+P0128,Riverside,True,47600,35-54,5.6,9.4,5.6
+P0129,Riverside,True,54600,35-54,20.0,12.8,4.0
+P0130,Downtown,False,70200,18-34,2.0,2.9,11.4
+P0131,Eastgate,True,91100,Under 18,5.6,6.9,16.4
+P0132,Northpark,False,85300,55+,4.8,9.6,6.5
+P0133,Westend,False,46200,Under 18,1.6,7.2,5.2
+P0134,Downtown,False,65400,18-34,2.5,3.4,11.1
+P0135,Eastgate,True,99200,35-54,1.1,6.5,14.4
+P0136,Riverside,True,52700,35-54,2.2,9.8,2.2
+P0137,Southside,False,43300,18-34,1.5,10.6,6.3
+P0138,Riverside,True,56700,55+,4.9,12.6,0.0
+P0139,Westend,False,47200,55+,13.0,13.2,1.1
+P0140,Downtown,False,67200,35-54,8.3,7.5,8.4
+P0141,Eastgate,True,91200,55+,17.4,8.3,6.8
+P0142,Westend,False,43800,35-54,1.9,10.0,7.6
+P0143,Southside,False,34800,18-34,0.7,7.6,8.2
+P0144,Hillcrest,True,42400,55+,6.9,15.7,4.3
+P0145,Northpark,False,84500,35-54,1.6,6.0,10.0
+P0146,Hillcrest,True,41300,Under 18,0.8,9.4,9.9
+P0147,Hillcrest,True,41800,35-54,5.8,12.8,2.3
+P0148,Riverside,True,50000,18-34,6.2,6.1,9.4
+P0149,Westend,False,46300,35-54,8.0,11.2,4.2
+P0150,Downtown,False,73800,35-54,5.9,10.5,7.3
+P0151,Maplewood,True,84400,18-34,7.0,6.2,17.1
+P0152,Riverside,True,48900,35-54,7.7,8.8,7.1
+P0153,Eastgate,True,94200,18-34,4.4,2.1,13.8
+P0154,Riverside,True,50500,18-34,0.4,8.7,10.1
+P0155,Southside,False,36900,55+,1.3,15.5,0.0
+P0156,Downtown,False,74100,35-54,6.4,8.7,8.5
+P0157,Maplewood,True,80700,18-34,2.4,5.1,14.4
+P0158,Northpark,False,93000,18-34,1.3,0.0,14.1
+P0159,Northpark,False,95100,35-54,11.1,5.6,11.8
+P0160,Hillcrest,True,39200,35-54,3.3,7.7,3.6
+P0161,Northpark,False,87300,55+,1.9,7.3,6.0
+P0162,Downtown,False,68200,18-34,3.3,3.9,10.3
+P0163,Eastgate,True,99100,55+,3.0,8.5,10.7
+P0164,Northpark,False,87600,18-34,12.1,6.4,14.3
+P0165,Southside,False,40600,55+,18.0,17.2,5.0
+P0166,Northpark,False,92700,55+,6.0,9.2,12.4
+P0167,Southside,False,42700,18-34,20.0,9.0,6.1
+P0168,Eastgate,True,96800,18-34,5.2,4.6,16.3
+P0169,Maplewood,True,74800,35-54,7.7,8.2,4.2
+P0170,Riverside,True,45800,18-34,6.7,3.8,6.6
+P0171,Maplewood,True,82500,Under 18,1.5,6.8,10.6
+P0172,Northpark,False,89800,35-54,3.3,6.5,9.0
+P0173,Southside,False,34300,35-54,0.2,8.6,0.0
+P0174,Hillcrest,True,39000,18-34,3.7,8.0,7.4
+P0175,Downtown,False,66200,Under 18,2.8,6.8,8.2
+P0176,Downtown,False,61300,35-54,3.8,7.8,4.6
+P0177,Eastgate,True,96000,18-34,1.1,1.4,15.2
+P0178,Westend,False,43900,55+,8.4,13.7,2.5
+P0179,Eastgate,True,93800,Under 18,3.7,4.1,17.3
+P0180,Downtown,False,71000,Under 18,2.2,2.2,6.0
+P0181,Downtown,False,67600,55+,1.0,8.2,7.3
+P0182,Eastgate,True,97200,18-34,6.6,1.6,12.1
+P0183,Downtown,False,69700,55+,2.4,8.6,2.8
+P0184,Southside,False,38100,35-54,12.1,13.8,1.9
+P0185,Riverside,True,52200,55+,4.4,12.1,4.9
+P0186,Riverside,True,59400,55+,7.6,13.8,4.1
+P0187,Northpark,False,87300,Under 18,3.4,0.0,12.3
+P0188,Downtown,False,74500,18-34,2.3,3.7,15.3
+P0189,Riverside,True,48300,18-34,0.4,7.2,8.7
+P0190,Hillcrest,True,43900,55+,9.1,15.2,0.0
+P0191,Hillcrest,True,41700,35-54,9.0,9.8,6.2
+P0192,Westend,False,44100,55+,4.5,12.9,0.2
+P0193,Westend,False,36400,55+,4.6,14.1,0.0
+P0194,Eastgate,True,101400,55+,2.6,6.4,5.7
+P0195,Hillcrest,True,36400,55+,4.6,13.1,0.0
+P0196,Hillcrest,True,37100,55+,4.2,14.8,3.3
+P0197,Eastgate,True,95500,35-54,0.3,2.0,12.8
+P0198,Maplewood,True,78200,55+,6.8,6.4,5.8
+P0199,Riverside,True,53100,55+,1.9,10.8,4.4
+P0200,Hillcrest,True,40000,35-54,1.1,10.6,0.0
+P0201,Westend,False,41000,18-34,3.0,2.6,8.0
+P0202,Eastgate,True,98500,35-54,1.0,6.9,10.7
+P0203,Hillcrest,True,37400,Under 18,13.9,13.4,8.4
+P0204,Southside,False,38900,18-34,3.2,8.6,5.1
+P0205,Maplewood,True,80300,18-34,0.3,1.2,14.7
+P0206,Maplewood,True,82700,55+,1.8,8.8,6.8
+P0207,Hillcrest,True,40100,Under 18,0.3,14.6,6.0
+P0208,Hillcrest,True,39800,18-34,4.1,11.3,8.4
+P0209,Southside,False,37100,18-34,3.8,9.0,6.3
+P0210,Eastgate,True,87600,35-54,5.5,5.4,13.0
+P0211,Riverside,True,49000,55+,1.9,12.0,0.9
+P0212,Southside,False,34000,35-54,2.7,13.5,0.0
+P0213,Northpark,False,83400,55+,7.8,8.3,9.4
+P0214,Eastgate,True,95700,18-34,4.6,0.1,18.0
+P0215,Downtown,False,66800,35-54,16.7,9.4,8.0
+P0216,Southside,False,44400,18-34,5.6,9.1,10.5
+P0217,Northpark,False,94000,18-34,6.6,0.3,16.5
+P0218,Northpark,False,80500,55+,4.4,10.2,4.4
+P0219,Eastgate,True,95500,35-54,6.3,6.0,7.2
+P0220,Westend,False,43000,18-34,3.5,7.3,5.3
+P0221,Hillcrest,True,43200,35-54,3.1,9.7,2.9
+P0222,Riverside,True,52600,18-34,7.7,8.6,9.9
+P0223,Eastgate,True,98700,Under 18,5.6,7.0,11.9
+P0224,Eastgate,True,96200,35-54,7.1,2.3,9.6
+P0225,Hillcrest,True,44000,55+,10.9,17.3,3.6
+P0226,Riverside,True,50800,35-54,7.8,10.8,3.2
+P0227,Southside,False,28000,Under 18,2.8,8.1,0.7
+P0228,Riverside,True,47300,18-34,1.8,5.6,6.2
+P0229,Downtown,False,64600,18-34,9.5,5.2,14.0
+P0230,Westend,False,45000,Under 18,0.4,0.3,6.3
+P0231,Hillcrest,True,37000,18-34,4.6,7.3,8.3
+P0232,Northpark,False,94500,55+,11.3,10.2,11.5
+P0233,Hillcrest,True,40300,55+,3.1,14.5,2.0
+P0234,Westend,False,52200,55+,4.2,10.8,4.5
+P0235,Riverside,True,50600,55+,7.0,8.0,2.3
+P0236,Maplewood,True,84600,Under 18,4.7,4.7,14.4
+P0237,Riverside,True,47200,18-34,12.1,7.2,9.3
+P0238,Hillcrest,True,43400,Under 18,2.4,13.4,7.9
+P0239,Maplewood,True,72700,Under 18,4.4,4.9,8.5
+P0240,Westend,False,48800,35-54,6.6,9.9,3.9

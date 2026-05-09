@@ -1,0 +1,121 @@
+student_id,major,year,study_hours_per_week,attendance_rate,final_grade
+S001,Design,Senior,8.9,0.53,88.4
+S002,Business,Junior,6.1,0.6,80.5
+S003,Design,Sophomore,5.8,0.58,77.0
+S004,Computer Science,Sophomore,5.8,0.46,82.5
+S005,Business,Freshman,15.4,0.74,96.9
+S006,Computer Science,Senior,10.3,0.69,86.0
+S007,Design,Senior,4.9,0.67,83.4
+S008,Business,Senior,9.1,0.73,87.1
+S009,Business,Senior,7.7,0.46,73.0
+S010,Psychology,Junior,1.5,0.43,66.5
+S011,Psychology,Senior,3.3,0.6,70.4
+S012,Design,Senior,8.0,0.66,77.1
+S013,Computer Science,Senior,14.6,0.75,100.0
+S014,Design,Sophomore,5.8,0.96,92.3
+S015,Psychology,Junior,4.7,0.62,71.2
+S016,Psychology,Freshman,7.1,0.71,85.2
+S017,Psychology,Senior,4.5,0.66,74.6
+S018,Psychology,Junior,5.5,0.64,76.8
+S019,Computer Science,Sophomore,6.6,0.56,77.7
+S020,Design,Junior,3.2,0.62,69.7
+S021,Computer Science,Junior,10.6,0.56,87.6
+S022,Design,Sophomore,2.8,0.51,67.0
+S023,Design,Freshman,2.6,0.49,70.4
+S024,Business,Junior,7.5,0.61,79.5
+S025,Design,Junior,10.2,0.87,89.7
+S026,Computer Science,Senior,7.4,0.41,74.9
+S027,Computer Science,Junior,6.2,0.65,78.9
+S028,Psychology,Senior,5.5,0.41,77.2
+S029,Psychology,Junior,5.0,0.52,77.3
+S030,Computer Science,Junior,12.0,0.77,90.0
+S031,Computer Science,Senior,8.1,0.61,84.2
+S032,Psychology,Sophomore,5.2,0.46,77.6
+S033,Computer Science,Freshman,4.3,0.49,67.7
+S034,Business,Freshman,9.5,0.69,87.1
+S035,Psychology,Senior,11.8,0.58,86.3
+S036,Computer Science,Junior,11.2,0.67,92.9
+S037,Computer Science,Junior,3.8,0.55,71.9
+S038,Business,Sophomore,5.5,0.51,66.8
+S039,Design,Freshman,4.9,0.78,72.9
+S040,Design,Freshman,5.9,0.64,78.7
+S041,Business,Sophomore,10.6,0.44,82.8
+S042,Business,Junior,13.9,0.7,89.4
+S043,Business,Sophomore,8.3,0.54,82.3
+S044,Psychology,Sophomore,4.4,0.64,70.1
+S045,Design,Senior,6.5,0.51,76.6
+S046,Computer Science,Sophomore,15.3,0.69,93.5
+S047,Psychology,Junior,7.0,0.64,78.9
+S048,Psychology,Senior,5.5,0.66,79.3
+S049,Design,Sophomore,5.8,0.46,71.2
+S050,Business,Junior,8.2,0.58,78.8
+S051,Computer Science,Senior,3.9,0.5,78.1
+S052,Design,Senior,4.8,0.5,71.3
+S053,Computer Science,Freshman,11.1,0.82,96.9
+S054,Design,Senior,8.1,0.65,78.0
+S055,Computer Science,Junior,7.1,0.47,81.2
+S056,Computer Science,Sophomore,11.5,0.74,98.3
+S057,Computer Science,Junior,4.2,0.77,70.0
+S058,Psychology,Senior,5.4,0.68,76.1
+S059,Psychology,Junior,8.0,0.45,81.7
+S060,Psychology,Sophomore,7.8,0.55,80.3
+S061,Business,Junior,2.4,0.66,73.0
+S062,Design,Sophomore,5.1,0.5,71.7
+S063,Computer Science,Freshman,6.0,0.62,80.7
+S064,Business,Freshman,8.5,0.69,82.4
+S065,Computer Science,Freshman,7.8,0.51,85.9
+S066,Business,Freshman,6.4,0.58,78.0
+S067,Computer Science,Freshman,1.5,0.4,69.1
+S068,Business,Junior,6.6,0.48,73.8
+S069,Computer Science,Freshman,6.9,0.57,78.8
+S070,Business,Sophomore,22.6,0.68,100.0
+S071,Design,Senior,5.9,0.74,82.1
+S072,Business,Junior,8.0,0.46,75.9
+S073,Computer Science,Junior,12.5,0.62,93.1
+S074,Psychology,Freshman,10.2,0.65,95.7
+S075,Business,Freshman,14.2,0.83,99.7
+S076,Design,Freshman,2.4,0.4,66.1
+S077,Psychology,Freshman,3.4,0.66,80.1
+S078,Psychology,Sophomore,4.6,0.56,73.9
+S079,Design,Freshman,2.1,0.43,59.3
+S080,Psychology,Freshman,7.0,0.64,77.2
+S081,Psychology,Freshman,3.6,0.57,66.3
+S082,Business,Junior,15.2,0.64,92.8
+S083,Computer Science,Sophomore,4.0,0.56,75.4
+S084,Computer Science,Sophomore,5.4,0.53,84.2
+S085,Business,Junior,10.6,0.65,87.4
+S086,Business,Junior,2.8,0.6,70.2
+S087,Design,Freshman,2.0,0.69,75.7
+S088,Psychology,Senior,7.4,0.47,70.1
+S089,Computer Science,Junior,7.8,0.82,88.3
+S090,Computer Science,Freshman,10.4,0.44,87.6
+S091,Design,Senior,9.0,0.6,77.4
+S092,Design,Senior,8.0,0.66,87.2
+S093,Psychology,Freshman,4.3,0.58,76.7
+S094,Computer Science,Sophomore,7.7,0.54,79.9
+S095,Business,Senior,7.9,0.58,82.5
+S096,Business,Junior,4.2,0.51,80.7
+S097,Psychology,Freshman,17.6,0.67,100.0
+S098,Design,Sophomore,8.8,0.7,85.9
+S099,Design,Sophomore,3.4,0.58,71.0
+S100,Business,Junior,10.4,0.57,80.7
+S101,Psychology,Junior,11.4,0.74,94.7
+S102,Computer Science,Sophomore,8.5,0.64,81.7
+S103,Business,Junior,5.7,0.66,77.7
+S104,Business,Junior,4.0,0.62,71.7
+S105,Business,Freshman,6.4,0.5,77.4
+S106,Psychology,Sophomore,8.2,0.55,83.1
+S107,Psychology,Junior,6.7,0.66,85.5
+S108,Design,Senior,14.5,0.75,94.2
+S109,Business,Junior,9.6,0.62,82.6
+S110,Business,Junior,3.7,0.56,68.1
+S111,Computer Science,Freshman,3.2,0.67,74.3
+S112,Computer Science,Sophomore,8.8,0.56,85.6
+S113,Design,Junior,5.8,0.63,81.1
+S114,Business,Sophomore,10.0,0.61,80.6
+S115,Business,Sophomore,8.8,0.59,85.2
+S116,Computer Science,Sophomore,6.4,0.69,87.8
+S117,Psychology,Freshman,3.8,0.63,77.1
+S118,Design,Sophomore,2.2,0.61,78.7
+S119,Business,Sophomore,7.6,0.73,79.2
+S120,Business,Sophomore,2.8,0.54,64.8
