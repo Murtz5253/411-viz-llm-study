@@ -1,5 +1,0 @@
-{
-  "PipliteAddon": {
-    "piplite_urls": ["./requirements-pyodide.txt"]
-  }
-}
