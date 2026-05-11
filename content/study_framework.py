@@ -175,7 +175,7 @@ class TaskWidget:
                 f"<div style='padding:14px; border:3px solid #d9534f; "
                 f"background:#fff3f3; margin-top:10px; border-radius:4px;'>"
                 f"<div style='font-size:16px; font-weight:bold; color:#d9534f; margin-bottom:6px;'>"
-                f"í´’ Task {self.task_id} has been submitted and is now locked."
+                f"ï¿½ï¿½ï¿½ Task {self.task_id} has been submitted and is now locked."
                 f"</div>"
                 f"<div style='color:#333; font-size:14px;'>"
                 f"<b>Do not edit any cells in this task above.</b> "
@@ -218,6 +218,7 @@ class TaskWidget:
             f"background:#fff3f3; margin-top:10px;'>"
             f"<b>Confirm submission for Task {self.task_id}?</b><br>"
             f"This will lock your work for this task. You cannot return to it."
+            f"After submission, remember to copy and submit your LLM chat transcript for this task."
             f"</div>"
         )
         confirm_yes = widgets.Button(description="Yes, submit and lock",
